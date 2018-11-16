@@ -27,7 +27,8 @@ cran_packages <- c(
 	"ks",
 	"rmarkdown",
 	"zoo",
-	"microbenchmark"
+	"microbenchmark",
+	"leaflet"
 )
 
 install.packages(cran_packages)
