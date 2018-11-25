@@ -28,6 +28,7 @@ cran_packages <- c(
 	"rmarkdown",
 	"zoo",
 	"microbenchmark",
+	"car",
 	"leaflet"
 )
 
