@@ -35,5 +35,5 @@ cran_packages <- c(
 install.packages(cran_packages)
 
 devtools::install_github("klutometis/roxygen")
-devtools::install_github("jalvesq/colorout")
+devtools::install_github("jalvesaq/colorout")
 
