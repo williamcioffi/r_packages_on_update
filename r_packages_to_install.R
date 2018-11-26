@@ -16,7 +16,7 @@ cran_packages <- c(
 	"igraph",
 	"lme4",
 	"rcpp",
-	"rcurl",
+	"RCurl",
 	"reshape2",
 	"RMySQL",
 	"vegan",
