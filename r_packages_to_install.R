@@ -29,11 +29,13 @@ cran_packages <- c(
 	"zoo",
 	"microbenchmark",
 	"car",
-	"leaflet"
+	"leaflet",
+	"roxygen2"
 )
 
 install.packages(cran_packages)
 
-devtools::install_github("klutometis/roxygen")
+# i guess roxygen2 is on cran now?
+# devtools::install_github("klutometis/roxygen")
 devtools::install_github("jalvesaq/colorout")
 
