@@ -30,7 +30,10 @@ cran_packages <- c(
 	"microbenchmark",
 	"car",
 	"leaflet",
-	"roxygen2"
+	"roxygen2",
+	"glmmTMB",
+	"R.matlab",
+	"RMySQL"
 )
 
 install.packages(cran_packages)
