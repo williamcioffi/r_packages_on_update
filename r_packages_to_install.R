@@ -33,7 +33,6 @@ cran_packages <- c(
 	"roxygen2",
 	"glmmTMB",
 	"R.matlab",
-	"RMySQL"
 )
 
 install.packages(cran_packages)
