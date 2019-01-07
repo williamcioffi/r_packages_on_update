@@ -31,6 +31,7 @@ cran_packages <- c(
 	"car",
 	"leaflet",
 	"roxygen2",
+	"TMB",
 	"glmmTMB",
 	"R.matlab",
 )
@@ -40,4 +41,5 @@ install.packages(cran_packages)
 # i guess roxygen2 is on cran now?
 # devtools::install_github("klutometis/roxygen")
 devtools::install_github("jalvesaq/colorout")
+devtools::install_github("ianjonsen/ssmTMB")
 
