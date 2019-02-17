@@ -45,3 +45,10 @@ devtools::install_github("jalvesaq/colorout")
 
 devtools::install_github("ianjonsen/foieGras")
 
+# need these packages under ubuntu 18.04
+# libssl-dev
+# libxml2-dev
+# rjags
+# libcurl4-openssl-dev
+# libgit2-dev
+
