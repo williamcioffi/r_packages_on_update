@@ -51,4 +51,8 @@ devtools::install_github("ianjonsen/foieGras")
 # rjags
 # libcurl4-openssl-dev
 # libgit2-dev
+# gdal-bin # not sure if you need this one or not.
+# libproj-dev 
+# libgeos-dev 
+# libgdal-dev
 
