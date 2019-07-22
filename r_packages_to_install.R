@@ -15,7 +15,7 @@ cran_packages <- c(
 	"foreach",
 	"igraph",
 	"lme4",
-	"rcpp",
+	"Rcpp",
 	"RCurl",
 	"reshape2",
 	"RMySQL",
@@ -33,7 +33,7 @@ cran_packages <- c(
 	"roxygen2",
 	"TMB",
 	"glmmTMB",
-	"R.matlab",
+	"R.matlab"
 )
 
 install.packages(cran_packages)
