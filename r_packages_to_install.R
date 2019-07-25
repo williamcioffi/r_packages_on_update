@@ -40,10 +40,14 @@ install.packages(cran_packages)
 
 # i guess roxygen2 is on cran now?
 # devtools::install_github("klutometis/roxygen")
-devtools::install_github("jalvesaq/colorout")
+# devtools::install_github("jalvesaq/colorout")
 # devtools::install_github("ianjonsen/ssmTMB") # abandoned i think?
 
+# is this on cran now?
 devtools::install_github("ianjonsen/foieGras")
+
+# get the latest and greatest sattagutils
+devtools::install_github("williamcioffi/sattagutils", ref = "dev")
 
 # need these packages under ubuntu 18.04
 # libssl-dev
