@@ -49,14 +49,3 @@ devtools::install_github("ianjonsen/foieGras")
 # get the latest and greatest sattagutils
 devtools::install_github("williamcioffi/sattagutils", ref = "dev")
 
-# need these packages under ubuntu 18.04
-# libssl-dev
-# libxml2-dev
-# rjags
-# libcurl4-openssl-dev
-# libgit2-dev
-# gdal-bin # not sure if you need this one or not.
-# libproj-dev 
-# libgeos-dev 
-# libgdal-dev
-
